@@ -115,3 +115,43 @@ Cada ronda muestra primero la prueba en **rojo** (falla porque el código aún n
 **🟢 Verde — la prueba pasa**
 
 ![Ronda 6 en verde](capturas_tdd/06_verde.png)
+
+### Ronda 7
+
+**🔴 Rojo — la prueba falla**
+
+![Ronda 7 en rojo](capturas_tdd/07_roja.png)
+
+**🟢 Verde — la prueba pasa**
+
+![Ronda 7 en verde](capturas_tdd/07_verde.png)
+
+### Ronda 8
+
+**🔴 Rojo — la prueba falla**
+
+![Ronda 8 en rojo](capturas_tdd/08_roja.png)
+
+**🟢 Verde — la prueba pasa**
+
+![Ronda 8 en verde](capturas_tdd/08_verde.png)
+
+### Ronda 9
+
+**🔴 Rojo — la prueba falla**
+
+![Ronda 9 en rojo](capturas_tdd/09_roja.png)
+
+**🟢 Verde — la prueba pasa**
+
+![Ronda 9 en verde](capturas_tdd/09_verde.png)
+
+### Ronda 10
+
+**🔴 Rojo — la prueba falla**
+
+![Ronda 10 en rojo](capturas_tdd/10_roja.png)
+
+**🟢 Verde — la prueba pasa**
+
+![Ronda 10 en verde](capturas_tdd/10_verde.png)
